@@ -19,3 +19,8 @@ Enter the name of the victim you want to report
 
 Then enter 
 The tool will immediately report the account until it is permanently blocked. 
+
+♥Best regards  Developer ♕ AlnsaarAlyemeny
+
+If you use this tool for anything illegal, you are solely responsible, and we bear no responsibility. 
+
