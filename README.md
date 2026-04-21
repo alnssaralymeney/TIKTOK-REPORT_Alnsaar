@@ -5,15 +5,19 @@ Run the tool via Python
 
 How to use it via Kali Linux 
 
-sudo apt install python-pip
+ 1« sudo apt install python-pip
 
-git clone https://github.com/alnssaralymeney/TIKTOK-REPORT_Alnsaar.git
+ 2« git clone https://github.com/alnssaralymeney/TIKTOK-REPORT_Alnsaar.git
 
-cd TIKTOK-REPORTAlnsaar
+ 3» cd TIKTOK-REPORTAlnsaar
 
-pip install -r requirements.txt
+ 4« pip install -r requirements.txt
 
-python tik-report-Alnsaar.py
+ 5« chmod 0600 tik-report-Alnsaar.py
+
+ 6« chmod 0777 tik-report-Alnsaar.py
+
+ 7« python tik-report-Alnsaar.py
 
 Enter the name of the victim you want to report 
 
