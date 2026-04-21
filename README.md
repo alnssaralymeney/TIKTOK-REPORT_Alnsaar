@@ -7,7 +7,7 @@ How to use it via Kali Linux
 
  1« sudo apt install python-pip
 
- 2« git clone https://github.com/alnssaralymeney/TIKTOK-REPORT_Alnsaar.git
+ 2 « git clone https://github.com/alnssaralymeney/TIKTOK-REPORT_Alnsaar.git
 
  3» cd TIKTOK-REPORTAlnsaar
 
