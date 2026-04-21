@@ -1,6 +1,5 @@
-
 # TIKTOK-REPORT_Alnsaar
-A powerful tool for reporting TikTok accounts 
+Apowerful tool for reporting TikTok accounts 
 
 Run the tool via Python 
 
@@ -24,6 +23,9 @@ The tool will immediately report the account until it is permanently blocked.
 ♥Best regards  Developer ♕ AlnsaarAlyemeny
 
 If you use this tool for anything illegal, you are solely responsible, and we bear no responsibility. 
+
+
+# /storage/emulated/0/DCIM/Screenshots/TIKTOK-REPORT_Alnsaar.jpg
 
 
 
