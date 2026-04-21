@@ -36,3 +36,4 @@ If you use this tool for anything illegal, you are solely responsible, and we be
 
 
 
+/storage/emulated/0/DCIM/Screenshots/TIKTOK-REPORT_Alnsaar.jpg<img width="288" height="260" alt="TIKTOK-REPORT_Alnsaar" src="https://github.com/user-attachments/assets/8694b7ba-e9bc-4b14-adb8-697c7396cb89" />
