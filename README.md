@@ -1,8 +1,8 @@
+<img width="288" height="260" alt="TIKTOK-REPORT_Alnsaar" src="https://github.com/user-attachments/assets/ee191bb1-a8f8-4c4d-ab28-8a823f1e1fc9" />
+<img width="720" height="561" alt="Screenshot_٢٠٢٦٠٤٢١-٠١٥٦٢٧_Termux" src="https://github.com/user-attachments/assets/f03bdbcd-bc68-4415-9747-387fd4b51a60" />
+
+
 # TIKTOK-REPORT_Alnsaar
-
-<img width="720" height="561" alt="Screenshot_٢٠٢٦٠٤٢١-٠١٥٦٢٧_Termux" src="https://github.com/user-attachments/assets/84d6e23c-b543-414b-81c5-7d8db70f65a1" />
-<img width="288" height="260" alt="TIKTOK-REPORT_Alnsaar" src="https://github.com/user-attachments/assets/0a5bc8c9-5f01-48d1-a9c1-0cf831164169" />
-
 
 Apowerful tool for reporting TikTok accounts 
 
