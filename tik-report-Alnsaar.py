@@ -11,7 +11,7 @@ bb = 0
 console = Console()
 
 # Join Telegram group (Ensure this URL is correct)
-os.system('xdg-open https://t.me/NSR882 ')
+os.system('xdg-open https://t.me/n_n_5s ')
 os.system('xdg-open https://www.instagram.com/n.n.5s ')
 
 # Input target username
@@ -21,7 +21,7 @@ Wellcome to Our Tools🔥
 \033[1;32mThis Tools Developer By AlnsaarAlyemeny
 __________________________________________________
 < > < > > 🇾🇪 TIKTOK-REPORT_Alnsaar 🇾🇪 < < > < > 
-||||||||     √ https://t.me/NSR882  ||||||||
+||||||||     √ https://t.me/n_n_5s  ||||||||
 ||||||||     √ https://t.me/N_S_R80 ||||||||
 |||||||| √ www.instagram.com/n.n.5s ||||||||
 ||||||||              💀💀          ||||||||
