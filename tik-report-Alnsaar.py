@@ -1,10 +1,9 @@
-import os
 import requests
 from rich.console import Console
 from rich.table import Table
 from rich.text import Text
 from ms4 import InfoTik  
-
+import os
 
 gg = 0
 bb = 0
@@ -13,7 +12,7 @@ console = Console()
 # Join Telegram group (Ensure this URL is correct)
 os.system('xdg-open https://t.me/n_n_5s ')
 os.system('xdg-open https://www.instagram.com/n.n.5s ')
-
+os.system('xdg-open https://www.tiktok.com/@n.n.5s ') 
 # Input target username
 os.system('clear') 
 print("""_______________________________________________
@@ -22,14 +21,15 @@ Wellcome to Our Tools🔥
 __________________________________________________
 < > < > > 🇾🇪 TIKTOK-REPORT_Alnsaar 🇾🇪 < < > < > 
 ||||||||     √ https://t.me/n_n_5s  ||||||||
-||||||||     √ https://t.me/N_S_R80 ||||||||
+||||||||     √ https://t.me/@n_5_5s ||||||||
 |||||||| √ www.instagram.com/n.n.5s ||||||||
-||||||||              💀💀          ||||||||
+|||||||| √ https://www.tiktok.com/@n.n.5s ||
 ================================================
 \033[1;33mDEVELOPER ▶ AlnsaarAlyemeny
 TEAM ▶︎AlnsaarAlyemeny
-CEO   ▶︎@N_S_R80
-CHANNEL  ▶︎https://t.me/NSR882
+CEO   ▶︎@n_5_5s
+CHANNEL  ▶︎https://t.me/n_n_5s
+Tik tok  ▶︎https://www.tiktok.com/@n.n.5s
 TOOLS NAME  ▶TIKTOK-REPORT_Alnsaar
 ================================================""")
 user = input("\n\n\n[</>] Enter The Target Username : ")
