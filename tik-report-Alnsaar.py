@@ -1,20 +1,20 @@
+import os
 import requests
 from rich.console import Console
 from rich.table import Table
 from rich.text import Text
 from ms4 import InfoTik  
-import os
+
 
 gg = 0
 bb = 0
 console = Console()
 
 # Join Telegram group (Ensure this URL is correct)
-os.system('xdg-open https://t.me/n_n_5s ')
-os.system('xdg-open https://www.instagram.com/n.n.5s ')
-os.system('xdg-open https://www.tiktok.com/@n.n.5s ') 
+os.system('xdg-open https://t.me/+okVWkLPZ7fhkYzY1 ')
+
 # Input target username
-os.system('clear') 
+os.system('clear')
 print("""_______________________________________________
 Wellcome to Our Tools🔥
 \033[1;32mThis Tools Developer By AlnsaarAlyemeny
@@ -64,12 +64,12 @@ def base_params():
 
 def Report():
     global gg, bb
-    url = "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/falcon/tiktok/search-web-inapp/resource/css/5848.0026db87.css"
+    url = "https://api16-normal-c-alisg.ttapis.com/aweme/v2/aweme/feedback/"
     headers = killman()
     params = base_params()
     try:
         res = requests.get(url, params=params, headers=headers)
-        if '"status_code":13,"status_message":""' in res.text:
+        if '"status_code":0,"status_message":""' in res.text:
             os.system('clear')
             gg += 1
         else:
@@ -88,7 +88,7 @@ def display_report():
     table.add_row("Good Report", Text(str(gg), style="green"))
     table.add_row("Bad Report", Text(str(bb), style="red"))
     table.add_row("Total", Text(str(total), style="yellow"))
-    table.add_row("Dev", "AlnsaarAlyemeny")
+    table.add_row("Dev", "AlnsaarAlyemeny ")
     table.add_row("User", Text(user, style="cyan"))
     table.add_row("Name", Text(nm, style="cyan"))
     table.add_row("Followers", Text(folo, style="green"))
